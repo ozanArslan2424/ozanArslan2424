@@ -3,6 +3,7 @@
 </div>
 
 ###
+[![](https://visitcount.itsvg.in/api?id=ozanArslan2424&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ozan-arslan-214513209/" target="_blank">
@@ -29,5 +30,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanArslan2424&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ozanArslan2424&icon=5&color=1)](https://visitcount.itsvg.in)
 
