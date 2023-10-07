@@ -17,7 +17,7 @@
   </a>
 </div>
 
-# Hey there! 👋
+# 👋 Hey there! 
 🤪 My name is Ozan.<br>👨‍🎓 I'm a recent graduate of METU Psychology.<br>👨‍💻 I recently got into the joy of web development.<br>💬 I have some experience with HTML, CSS, and JS.<br>📚 I'm currently learning React.js and I'm also enrolled in a back-end course by patika.dev.<br>🧏‍♂️ I recently started using GitHub, tell me what I'm doing wrong :)
 
 
